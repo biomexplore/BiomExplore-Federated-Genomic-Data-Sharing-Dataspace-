@@ -1,7 +1,4 @@
 # BiomExplore-Federated-Genomic-Data-Sharing-Dataspace
-Good—this is the right step. Let’s turn your diagram into a **clear, structured README** that defines the project, workflow, and responsibilities.
-
-Below is a **professional, GitHub-ready README.md** you can directly use and adapt.
 
 ---
 
